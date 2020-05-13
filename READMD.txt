@@ -1,0 +1,5 @@
+#### 1.cnpm install gulp -g(全局安装gulp)
+#### 2.cnpm init (初始化项目文件夹)
+#### 3.cnpm install gulp --save-dev (在当前文件夹下安装gulp),也可通过cnpm install gulp@3.9.1 --save-dev下载指定版本
+#### 4.新建gulpfile.js文件配置
+#### 5.第三方插件的使用
